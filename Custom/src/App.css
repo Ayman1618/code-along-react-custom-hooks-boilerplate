@@ -1,0 +1,19 @@
+*{
+  box-sizing: border-box;
+}
+
+input{
+  height: 2vw;
+  width: 16vw;
+  margin-left: 43vw;
+  padding: 20px;
+}
+
+input::placeholder{
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+  margin-left: 37vw;
+}
